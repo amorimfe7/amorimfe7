@@ -3,7 +3,7 @@
 - 🔭 Em busca da primeira oportunidade
 - 🌱 Estudando .NET
 - 👯 Futura Desenvolvedora Full Stack
-- 😄 Pronouns: she/her
+- 😄 She/her
 
 <div>
   <a href="https://www.linkedin.com/in/amorim-fernanda/">
