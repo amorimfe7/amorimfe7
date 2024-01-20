@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/amorim-fernanda/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimfe7&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimfe7&layout=compact&langs_count=20&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
