@@ -1,8 +1,6 @@
 ## Eai! Eu sou a Fernanda Amorim
 
-- 🔭 Em busca da primeira oportunidade
 - 🌱 Estudando .NET
-- 👯 Futura Desenvolvedora Full Stack
 - 😄 She/her
 
 <div>
